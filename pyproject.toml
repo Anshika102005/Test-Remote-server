@@ -1,12 +1,12 @@
 [project]
 name = "test-remote-server"
 version = "0.1.0"
-description = "Add your description here"
+description = "Expense tracker FastMCP server"
 readme = "README.md"
 authors = [
     { name = "Anshika102005", email = "anshikasahu3234@gmail.com" }
 ]
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "aiosqlite>=0.22.1",
     "fastmcp>=4.1.3",
